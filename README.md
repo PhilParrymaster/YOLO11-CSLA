@@ -1,13 +1,21 @@
 A transformer block with a learnable kernel function instead of softmax inspired by an article "Linear Transformers with Learnable Kernel Functions are Better In-Context Models" 
+
 ![image](https://github.com/user-attachments/assets/76135220-d9a4-4ec4-9c97-4a6f4576dd88)
+
 fig.1: Learnable kernel functions.
+
 An Efficient Channel Attention (ECA) block is put prior to Spatial Attention (SA). I am currently writing my own paper about this implementation.
 
 ![image](https://github.com/user-attachments/assets/af0c52da-5d4d-4638-8289-aa39dd8d4f87)
+
 fig.2: A Channel-Spatial Attention block.
+
 ![image](https://github.com/user-attachments/assets/54152e61-8f0f-4af4-8c21-60d45e730e59)
+
 fig.3: the ECA block.
+
 ![image](https://github.com/user-attachments/assets/7692e4ec-c8f1-4256-b954-5b86253bf794)
+
 fig.4: the SA block.
 
  References
