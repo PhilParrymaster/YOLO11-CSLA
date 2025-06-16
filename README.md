@@ -18,6 +18,8 @@ fig.3: the ECA block.
 
 fig.4: the SA block.
 
+An area attention method is implemented in this repository from YOLOv12.
+
  References:
 
 Vaswani A., Shazeer N., Parmar N., Uszkoreit J., Jones L., Gomes A., Kaiser L., Polosukhin I. Attention Is All You Need. In: Advances in 
@@ -31,3 +33,6 @@ Conference on Computer Vision and Pattern Recognition (CVPR), 2020, pp. 11534–
 
 Aksenov Y., Balagansky N., Lo Cicero Vaina S., Shaposhnikov B., Gorbatovski A., Gavrilov D. Linear Transformers with Learnable Functions are Better 
 In-Context Models. In: Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL, Long Papers), 2024, pp. 9584–9597.
+
+Tian Y., Ye Q., Doermann D. YOLOv12: Attention-Centric Real-Time Object Detectors. University at Buffalo & University of Chinese
+Academy of Sciences, 2024
