@@ -1,4 +1,4 @@
-A transformer block with a learnable kernel function instead of softmax inspired by an article "Linear Transformers with Learnable Kernel Functions are Better In-Context Models" 
+A transformer block with a learnable kernel function instead of softmax inspired by an article "Linear Transformers with Learnable Kernel Functions are Better In-Context Models". 
 
 ![image](https://github.com/user-attachments/assets/76135220-d9a4-4ec4-9c97-4a6f4576dd88)
 
@@ -18,7 +18,7 @@ fig.3: the ECA block.
 
 fig.4: the SA block.
 
- References
+ References:
 
 Vaswani A., Shazeer N., Parmar N., Uszkoreit J., Jones L., Gomes A., Kaiser L., Polosukhin I. Attention Is All You Need. In: Advances in 
 Neural Information Processing Systems (NeurIPS), 2017, pp. 5998–6088.
