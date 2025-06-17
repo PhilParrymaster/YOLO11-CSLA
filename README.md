@@ -22,6 +22,8 @@ An area attention method is implemented in this repository from YOLOv12.
 
  References:
 
+Jocher, G., Qiu, J., & Chaurasia, A. (2023). Ultralytics YOLO (Version 8.0.0) [Computer software]. https://github.com/ultralytics/ultralytics
+
 Vaswani A., Shazeer N., Parmar N., Uszkoreit J., Jones L., Gomes A., Kaiser L., Polosukhin I. Attention Is All You Need. In: Advances in 
 Neural Information Processing Systems (NeurIPS), 2017, pp. 5998–6088.
 
